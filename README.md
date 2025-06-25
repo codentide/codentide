@@ -29,7 +29,7 @@ Passionate **Front-End React Developer** with a background in Software Developme
 | **Movie Finder** | Movie search app with search, filtering, and detailed viewing capabilities via an external API, using React Router | React, TS, React Router | [Code](https://github.com/codentide/ts-react-movie-finder) \| [Demo](https://ts-react-movie-finder.netlify.app/) |
 | **To-do Manager** | Complete task management application. *Currently integrating Supabase for authentication and data persistence.* | React, TS, Zustand | [Code](https://github.com/codentide/ts-react-todo-manager) \| [Demo](https://ts-react-todo-manager.netlify.app/)  |
 
-### 📬 **Conect with me:**
+### 📬 **Connect with me:**
 
 * **LinkedIn:** [linkedin.com/in/marco-del-boccio](https://www.linkedin.com/in/marco-del-boccio/)
 * **Email:** marcodelboccio77@gmail.com
