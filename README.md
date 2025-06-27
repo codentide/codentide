@@ -9,9 +9,7 @@
 
 <h3>Software Development Technologist | Front-End React Developer </h3>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,scss,vite,nodejs,supabase,git" />
-  </a>
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,js,ts,zustand,html,css,scss,vite,supabase,git)
 
 </div>
 
