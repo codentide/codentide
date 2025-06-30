@@ -9,9 +9,9 @@
 
 <h3>Software Development Technologist | Front-End React Developer </h3>
 
-<span>[![My Skills](https://skillicons.dev/icons?i=react,js,ts)()</span>
-<span>[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand)</span>
-<span>[![My Skills](https://skillicons.dev/icons?i=html,css,scss,vite,supabase,git)()</span>
+<span>![My Skills](https://skillicons.dev/icons?i=react,js,ts)</span>
+<span>![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand)</span>
+<span>![My Skills](https://skillicons.dev/icons?i=html,css,scss,vite,supabase,git)</span>
  
 </div>
 
